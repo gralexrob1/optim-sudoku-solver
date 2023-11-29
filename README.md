@@ -1,2 +1,2 @@
 # optim-sudoku
-Implementation of a Sudoku solver
+Implementation of a Sudoku solver.
