@@ -1,0 +1,8 @@
+name: optim-sudoku-solver
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cvxopt=1.3.2
+  - ipykernel=6.26.0
+  - numpy=1.26.0
